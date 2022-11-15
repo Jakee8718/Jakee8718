@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p href="Jakee" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/997512351760789507/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/686033406450204690/>
 </p>
 
 <h1 align="center">Stats</h1>
