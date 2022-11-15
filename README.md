@@ -4,7 +4,7 @@
 
 ![Header](./header.png)
 
-- 👋 discord.gg/phts
+- 👋 discord.gg/wp4VHwmVcH
 
 C͟o͟n͟t͟a͟c͟t͟
 - 📫 Reach me at: Jakee8718
