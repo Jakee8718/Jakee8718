@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://gpvc.arturio.dev/Jakee8718" alt="Jakee8718" /> </p>
 
-![Header](./header.png)
+
 
 - 👋 discord.gg/wp4VHwmVcH
 
@@ -33,4 +33,4 @@ You can click the Preview link to take a look at your changes.
  -->
 
 
-![Footer](./footer.png)
+
