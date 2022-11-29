@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p href="Jakee" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/686033406450204690/>
+    <img alt="" src=Put Lanyard Here!/> <!-- https://lanyard.cnrad.dev/api/686033406450204690 (Show discord status)
 </p>
 
 <h1 align="center">Stats</h1>
