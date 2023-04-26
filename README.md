@@ -4,7 +4,7 @@
 
 
 
-- 👋 discord.gg/wp4VHwmVcH
+- 👋 Join The [Discord!](https://discord.gg/qybBqmkcnE)
 
 C͟o͟n͟t͟a͟c͟t͟
 - 📫 Reach me at: Jakee8718
