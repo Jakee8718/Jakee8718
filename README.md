@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h1 align="center">Stats</h1>
-<a href="https://github.com/Hazza3100"></a>
+<a href="https://github.com/Jakee8718"></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazza3100&theme=midnight-purple&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jakee8718&theme=midnight-purple&show_icons=true" />
 </p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakee8718&theme=midnight-purple&show_icons=true)
