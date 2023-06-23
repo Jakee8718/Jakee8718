@@ -1,7 +1,5 @@
 [![Hits](http://hits.dwyl.com/Jakee8718/Jakee8718.svg)](http://hits.dwyl.com/Jakee8718/Jakee8718)
 
-<p align="center"> <img src="<img src=https://komarev.com/ghpvc/?username=jakee8718" alt="Jakee8718" /> </p>
-
 
 <p>
 <img src=https://komarev.com/ghpvc/?username=jakee8718 />
