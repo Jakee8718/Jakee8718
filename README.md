@@ -3,6 +3,12 @@
 <p align="center"> <img src="<img src=https://komarev.com/ghpvc/?username=jakee8718" alt="Jakee8718" /> </p>
 
 
+<p>
+<img src=https://komarev.com/ghpvc/?username=jakee8718 />
+</p>
+
+
+
 
 - 👋 Join The [Discord!](https://discord.gg/qybBqmkcnE)
 
