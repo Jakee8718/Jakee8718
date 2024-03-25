@@ -11,7 +11,7 @@
 - 👋 Join The [Discord!](https://discord.gg/qybBqmkcnE)
 
 C͟o͟n͟t͟a͟c͟t͟
-- 📫 Reach me at: Jakee8718
+- 📫 Reach me at: daddy_m
 
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
